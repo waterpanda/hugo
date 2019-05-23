@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+  <fonts>
+    <font name="Webding" className="" url="./files/fonts/font-0-0-2019523172631736.swf" ttfurl="./files/fonts/font-0-0-2019523172631736.ttf"/>
+    <font name="Droid Sans" className="FskyFont_droidsans" url="./files/fonts/font-1-0-2019523172631740.swf" ttfurl="./files/fonts/font-1-0-2019523172631740.ttf"/>
+    <font name="Droid Sans" className="FskyFont_droidsans_bold" url="./files/fonts/font-1-1-2019523172631742.swf" ttfurl="./files/fonts/font-1-1-2019523172631742.ttf"/>
+    <font name="思源黑体" className="FskyFont_syht" url="./files/fonts/font-2-0-2019523172631743.swf" ttfurl="./files/fonts/font-2-0-2019523172631743.ttf"/>
+    <font name="思源黑体" className="FskyFont_syht_Bold" url="./files/fonts/font-2-1-2019523172632305.swf" ttfurl="./files/fonts/font-2-1-2019523172632305.ttf"/>
+    <font name="思源黑体" className="FskyFont_syht_Italic" url="./files/fonts/font-2-2-2019523172632637.swf" ttfurl="./files/fonts/font-2-2-2019523172632637.ttf"/>
+    <font name="思源黑体" className="FskyFont_syht_Bold_Italic" url="./files/fonts/font-2-3-2019523172632969.swf" ttfurl="./files/fonts/font-2-3-2019523172632969.ttf"/>
+    <font name="FontAwesome" className="" url="./files/fonts/font-3-0-2019523172633302.swf" ttfurl="./files/fonts/font-3-0-2019523172633302.ttf"/>
+  </fonts>
+</data>
